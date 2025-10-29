@@ -1,1 +1,9 @@
-
+<! -- estilo h1 -->
+h1 {
+  color: #00a8ff;
+  text-align: center;
+}
+p{
+  color: black;
+  font-size: 25px;
+}
